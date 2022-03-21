@@ -2,3 +2,8 @@ __pycache__/
 .vscode/
 env/
 data/
+format.json
+.gensim
+.gensim.expElogbeta.npy
+.gensim.id2word
+.gensim.state
